@@ -7,7 +7,6 @@
   - [Preview](#Preview)
   - [Contributors](#Contributors)
   - [License](#License)
-  - [Questions](#Questions)
   ## Description
   To build a API for a social network web application where users can share their thoughts and reactions with friends.
   
@@ -20,10 +19,12 @@
   ## Technologies
   HTML, css, javascript, MongoDB, express, mongoose.
 
-  ## Preview
-  
+  ## Prev
 
-  ## Launch
+  https://user-images.githubusercontent.com/55556978/151133444-512b767d-9eba-4961-86dc-fa098c6c61eb.mp4
+
+iew
+  
 
   ## Contributors
   Anthony Jimenez
